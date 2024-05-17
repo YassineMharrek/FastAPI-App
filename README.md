@@ -48,6 +48,3 @@ This project demonstrates a simple FastAPI application containerized with Docker
     ```bash
     pytest
     ```
-
-## Additional Notes
-Feel free to enhance the application with additional features or endpoints if time permits.
