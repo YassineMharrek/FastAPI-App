@@ -27,12 +27,12 @@ This project demonstrates a simple FastAPI application containerized with Docker
 
 1. Build the Docker image:
     ```bash
-    docker build -t FastAPI-App .
+    docker build -t fastapi-app .
     ```
 
 2. Run the Docker container:
     ```bash
-    docker run -p 80:80 FastAPI-App
+    docker run -p 80:80 fastapi-app
     ```
 
 3. The application will be accessible at `http://localhost`.
