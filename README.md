@@ -12,7 +12,7 @@ This project demonstrates a simple FastAPI application containerized with Docker
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/YassineMharrek/FastAPI-App
     cd fastapi-docker-example
     ```
 
