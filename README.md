@@ -19,7 +19,7 @@ This project demonstrates a simple FastAPI application containerized with Docker
 2. Set up the virtual environment and install dependencies:
     ```bash
     python3 -m venv venv
-    source venv/bin/activate
+    venv\Scripts\activate
     pip install -r requirements.txt
     ```
 
