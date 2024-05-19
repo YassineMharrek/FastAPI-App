@@ -13,7 +13,7 @@ This project demonstrates a simple FastAPI application containerized with Docker
 1. Clone the repository:
     ```bash
     git clone https://github.com/YassineMharrek/FastAPI-App
-    cd fastapi-docker-example
+    cd FastAPI-App
     ```
 
 2. Set up the virtual environment and install dependencies:
